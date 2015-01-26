@@ -1,0 +1,84 @@
+Movie Name : Avatar 
+Year : 2009
+Duration : 162 min
+Rating : 7.9
+Total Votes : 741,673
+Genre : Action, Adventure, Fantasy
+
+Movie Name : Transformers: Dark of the Moon 
+Year : 2011
+Duration : 154 min
+Rating : 6.3
+Total Votes : 277,598
+Genre : Action, Adventure, Sci-Fi
+
+Movie Name : Gone Girl 
+Year : 2014
+Duration : 149 min
+Rating : 8.3
+Total Votes : 270,679
+Genre : Drama, Mystery, Thriller
+
+Movie Name : Inception 
+Year : 2010
+Duration : 148 min
+Rating : 8.8
+Total Votes : 1,136,723
+Genre : Action, Mystery, Sci-Fi
+
+Movie Name : The Matrix 
+Year : 1999
+Duration : 136 min
+Rating : 8.7
+Total Votes : 976,356
+Genre : Action, Sci-Fi
+
+Movie Name : X-Men 
+Year : 2000
+Duration : 104 min
+Rating : 7.4
+Total Votes : 364,395
+Genre : Action, Adventure, Sci-Fi
+
+Movie Name : The Avengers 
+Year : 2012
+Duration : 143 min
+Rating : 8.2
+Total Votes : 764,018
+Genre : Action, Adventure, Sci-Fi
+
+Movie Name : Iron Man 
+Year : 2008
+Duration : 126 min
+Rating : 7.9
+Total Votes : 548,284
+Genre : Action, Adventure, Sci-Fi
+
+Movie Name : A Beautiful Mind 
+Year : 2001
+Duration : 135 min
+Rating : 8.2
+Total Votes : 469,339
+Genre : Biography, Drama
+
+Movie Name : Megamind 
+Year : 2010
+Duration : 95 min
+Rating : 7.3
+Total Votes : 140,296
+Genre : Animation, Action, Comedy
+
+Movie Name : Underworld 
+Year : 2003
+Duration : 121 min
+Rating : 7.0
+Total Votes : 181,042
+Genre : Action, Fantasy, Thriller
+
+Movie Name : Thor 
+Year : 2011
+Duration : 115 min
+Rating : 7.0
+Total Votes : 411,266
+Genre : Action, Adventure, Fantasy
+
